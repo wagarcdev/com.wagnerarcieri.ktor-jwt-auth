@@ -1,0 +1,1 @@
+rootProject.name = "com.wagnerarcieri.ktor-jwt-auth"
